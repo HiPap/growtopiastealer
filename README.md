@@ -40,8 +40,7 @@ or potentially work with me add me on my Discord
 
 #
 ## Roadmap:
--
-- Token Logger
+This will not be updated
 
 ## License
 
