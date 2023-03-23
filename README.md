@@ -1,5 +1,5 @@
 # Growtopia Stealer
-Stealer made in Python
+Simple advanced stealer made in Python
 
 
 #
@@ -30,7 +30,7 @@ To install the modules needed you need to run
 #
 
 ## Responsibilities
-By downloading this repost and using this malware, you are accepting responsibiliy of your actions. Only skids would sell open source code like this. This code is to educate people. I am a person who is into cybersecurity.
+By downloading this repost and using this malware, you are accepting responsibiliy of your actions. Only skids would sell open source code like this. This code is to educate people. I am a person who is interested in cybersecurity.
 
 ## Contributing
 
