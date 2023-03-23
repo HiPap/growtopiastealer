@@ -1,10 +1,12 @@
-# Growtopia Stealer
+# Python Growtopia Stealer
 Simple advanced stealer made in Python
 
 
 #
+![image](https://user-images.githubusercontent.com/96549124/227387588-dbb284f4-31e0-42a3-a204-8f2616e6ba6e.png)
 
 ## Installation
+Add your webhook link to the url sections. Don't dm me on Discord or anything I wont help you with this
 
 ### On Windows:
 The Windows installation requires the package manager [pip](https://pip.pypa.io/en/stable/)
