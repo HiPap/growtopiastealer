@@ -1,7 +1,6 @@
 # Growtopia Stealer
 Stealer made in Python
-# Retro X Webhook Spammer
-Retro X is a brand new webhook spammer more updates will be made to this project. 
+
 
 #
 
