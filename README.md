@@ -1,5 +1,5 @@
 # Python Growtopia Stealer
-Simple advanced stealer made in Python
+Simple advanced stealer made in Python, inspired by CrocZ stealer. 
 
 
 #
@@ -33,16 +33,7 @@ To install the modules needed you need to run
 #
 
 ## Responsibilities
-By downloading this repost and using this malware, you are accepting responsibiliy of your actions. Only skids would sell open source code like this. This code is to educate people. I am a person who is interested in cybersecurity.
-
-## Contributing
-
-Pull requests are welcome as I want to improve this software for the fun of it. I see it as nothing more than a hobby project. I don't intend on causing harm to others. If there is any major changes you would like to do
-or potentially work with me add me on my Discord
-
-#
-## Roadmap:
-This will not be updated
+The creator of this is not responsible for the user's actions. This is only for educational purposes and please do not ask help for this 
 
 ## License
 
