@@ -33,7 +33,8 @@ To install the modules needed you need to run
 #
 
 ## Responsibilities
-The creator of this is not responsible for the user's actions. This is only for educational purposes and please do not ask help for this 
+The creator of this is not responsible for the user's actions. This is only for educational purposes.
+If a skid messages me asking how do you work this thing or open an issue I will immediately close the issue 
 
 ## License
 
